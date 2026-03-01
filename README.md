@@ -1,9 +1,10 @@
-📊 Excel E-Commerce Data Analysis Project
+## 📊 Excel E-Commerce Data Analysis Project
 
 This project is a simple e-commerce data analysis using Microsoft Excel. It demonstrates cleaning data, creating calculated metrics, and visualizing insights with Pivot Tables and Charts to build a basic dashboard.
+## Dashboard Preview
+![Sales Dashboard](Dashboard.PNG)
 
-
-*Project Features
+## Project Features
 
 Data cleaning and transformation using Power Query
 
@@ -14,7 +15,7 @@ Data visualization with Pivot Tables and Charts
 
 Key metrics 
 
-*Skills Practiced
+## Skills Practiced
 
 Power Query
 
